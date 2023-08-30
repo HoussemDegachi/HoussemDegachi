@@ -16,6 +16,7 @@
 - ⚡ Fun fact **I am programming since i was 12 years old**
 
 <h3 align="left">Connect with me:</h3>
+<a href="mailto:houssemdegach@gmail.com">houssemdegach@gmail.com</a>
 <p align="left">
 </p>
 
