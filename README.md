@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=houssemdegachi&label=Profile%20views&color=0e75b6&style=flat" alt="houssemdegachi" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Backend with Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HoussemDegachi](https://github.com/HoussemDegachi)
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **Full stack web development**
 
 - 📫 How to reach me **houssemdegach@gmail.com**
 
