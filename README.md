@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=houssemdegachi&label=Profile%20views&color=0e75b6&style=flat" alt="houssemdegachi" /> </p>
 
-- 🌱 I’m currently learning **Backend with Node**
+- 🌱 I’m currently learning **Ai engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HoussemDegachi](https://github.com/HoussemDegachi)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **houssemdegach@gmail.com**
 
-- ⚡ Fun fact **I am programming since i was 12 years old**
+- ⚡ Fun fact **I have been programming since i was 13 years old**
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:houssemdegach@gmail.com">houssemdegach@gmail.com</a>
